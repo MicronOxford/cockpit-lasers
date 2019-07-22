@@ -1,3 +1,9 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+
+This project has been rolled into MicronOxford/microscope.
+
 # cockpit-lasers
 This package defines classes used to remotely control lasers in cockpit. It can be started from the command line, or controlled by CockpitWindowsService.
 
